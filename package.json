@@ -1,0 +1,22 @@
+{
+  "name": "todoservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies":{
+    
+  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kartikvadhavana/DockerMicroservice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kartikvadhavana/DockerMicroservice/issues"
+  },
+  "homepage": "https://github.com/kartikvadhavana/DockerMicroservice#readme"
+}
