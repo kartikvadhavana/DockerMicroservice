@@ -6,9 +6,21 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies":{
-    
-  }
+  "dependencies": {
+    "express": "4.15.2",
+    "body-parser": "1.17.1",
+    "mongoose": "4.9.3",
+    "http-status": "1.0.1",
+    "wagner-core": "0.2.0",
+    "underscore": "1.8.3",
+    "mongodb": "2.2.25"
+    },
+  "devDependencies": {
+    "mocha": "3.2.0",
+    "gulp": "3.9.1",
+    "gulp-mocha": "4.3.0",
+    "superagent": "1.2.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kartikvadhavana/DockerMicroservice.git"
